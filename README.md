@@ -1,2 +1,2 @@
 # Hello-World
-Initialize this repository with a README
+echo "Hello, World!" > hello_world.txt
